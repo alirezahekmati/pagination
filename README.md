@@ -1,6 +1,6 @@
 # Array based pagination
 
-> npm i array-pagination
+> npm i a-p
 
 ### how to use the hook
 
