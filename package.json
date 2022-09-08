@@ -1,0 +1,22 @@
+{
+  "name": "array-pagination",
+  "version": "1.0.0",
+  "description": " React Hook for pagination",
+  "main": "pagination.js",
+  "scripts": {
+    "test": "pagination"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezahekmati/pagination.git"
+  },
+  "keywords": [
+    "pagination"
+  ],
+  "author": "alireza hekmati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alirezahekmati/pagination/issues"
+  },
+  "homepage": "https://github.com/alirezahekmati/pagination#readme"
+}
